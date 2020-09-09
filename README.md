@@ -1,12 +1,12 @@
 
 - [Navigation](#navigation)
     - [Introduction](#computer-science-club)
-    - [Our Mission](##our-mission)
-    - [General Information](##general-information)
-    - [Events](##events)
-    - [Resources](##resources)
-    - [Surveys](##survey)
-    - [Announcements](##announcements)
+    - [Our Mission](#our-mission)
+    - [General Information](#general-information)
+    - [Events](#events)
+    - [Resources](#resources)
+    - [Surveys](#survey)
+    - [Announcements](#announcements)
     - [Contact](#contact)
 
 <!-- /TOC -->
@@ -15,11 +15,11 @@
 
 The Computer Science Club is a student organization founded in March 2014. While the club is focused on serving students in the computer science field, all students interested are welcome to join us in our journey to support our mission.  
 
-## Our Mission
+# Our Mission
 Our mission is to prepare students for a successful career by organizing events that provide them with supplementary computer science knowledge and expand their professional/personal networks.
 > Join us to create a better programming community.
 
-## General Information
+# General Information
 
 **Information**
 
@@ -32,7 +32,7 @@ Our mission is to prepare students for a successful career by organizing events 
     - Have an impact during your school life
     - [HuskiesConnect Officer Application]
 
-## Events
+# Events
 
 - **GeoComm on Amazon Web Services** September 30th @3 pm - ZOOM
   - [Join our mailing list to stay updated] (HuskiesConnect)
@@ -41,7 +41,7 @@ Our mission is to prepare students for a successful career by organizing events 
   - When: **Oct 24th - 25th
   - Register here: [HUSKIESHACK](huskiesHack)
 
-## Resources
+# Resources
 
 **Degree Map for Computer Science**
 
@@ -64,14 +64,14 @@ Our mission is to prepare students for a successful career by organizing events 
  - Link to PowerPoint prepping for interviews [HERE](https://docs.google.com/presentation/d/1W546HdErPJ653AfJDIzm424gA3gFx8Tz4pNrucYa7lo/edit#slide=id.p)
  
 
-## Surveys
+# Surveys
 
 <!-- <iframe src="" width="640" height="2761" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 -->
 [Membership Application & Survey]
 
 
-## Announcements
+# Announcements
 
 **Upcoming College Events**
 
