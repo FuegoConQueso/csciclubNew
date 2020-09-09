@@ -25,7 +25,7 @@ Our mission is to prepare students for a successful career by organizing events 
 
  - Located in `ECC 102e`
  - Meet weekly on `Wednesday, 3pm - 4 pm (Updates every semester)`
- - Host `Workshops` and Informational Session on topics ranging from **Machine Learning** to **Intro to Computer Science**
+ - Host `Workshops` and `Informational Session` on topics ranging from **Machine Learning** to **Intro to Computer Science**
  - Become a Member [HuskiesConnect]
  - Become an Officer
     - Add value to your resume 
@@ -35,7 +35,7 @@ Our mission is to prepare students for a successful career by organizing events 
 # Events
 
 - **GeoComm on Amazon Web Services** September 30th @3 pm - ZOOM
-  - [Join our mailing list to stay updated] (HuskiesConnect)
+  - [Join our mailing list to stay updated](HuskiesConnect)
   
 - **Virutal Hack-a-thon**
   - When: **Oct 24th - 25th
@@ -84,7 +84,7 @@ Our mission is to prepare students for a successful career by organizing events 
 
 Email: <csciclub@stcloudstate.edu>
 
- [Scroll to top](#navigation)
+- [Scroll to top](#navigation)
 
 [HuskiesConnect]: http://slashdot.org
 [huskiesHack]: https://csciclub.github.io
