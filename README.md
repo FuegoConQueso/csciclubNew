@@ -1,5 +1,5 @@
 
-[Navigation](#navigation)
+- [Navigation](#navigation)
     - [Introduction](#computer-science-club)
     - [Our Mission](##our-mission)
     - [General Information](##general-information)
