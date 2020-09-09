@@ -1,13 +1,13 @@
 
-- # [Navigation](#navigation)
-    - [Introduction](#computer-science-club)
-    - [Our Mission](#our-mission)
-    - [General Information](#general-information)
-    - [Events](#events)
-    - [Resources](#resources)
-    - [Surveys](#survey)
-    - [Announcements](#announcements)
-    - [Contact](#contact)
+# [Navigation](#navigation)
+   - [Introduction](#computer-science-club)
+   - [Our Mission](#our-mission)
+   - [General Information](#general-information)
+   - [Events](#events)
+   - [Resources](#resources)
+   - [Surveys](#surveys)
+   - [Announcements](#announcements)
+   - [Contact](#contact)
 
 <!-- /TOC -->
 
