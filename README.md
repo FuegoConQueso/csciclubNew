@@ -1,5 +1,5 @@
 
-# [Navigation](#navigation)
+# [CSCI Club](#csci-club)
    - [Introduction](#computer-science-club)
    - [Our Mission](#our-mission)
    - [General Information](#general-information)
@@ -84,7 +84,10 @@ Our mission is to prepare students for a successful career by organizing events 
 
 Email: <csciclub@stcloudstate.edu>
 
-- [Scroll to top](#navigation)
+- [Scroll to top](#csci-club)
+
+- - -
+      (c) Computer Science Club
 
 [HuskiesConnect]: http://slashdot.org
 [huskiesHack]: https://csciclub.github.io
