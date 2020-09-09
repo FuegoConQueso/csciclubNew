@@ -37,7 +37,7 @@ Our mission is to prepare students for a successful career by organizing events 
 
 **Join Our Communication Channel**
 
-###Discord Servers
+### Discord Servers
 - [For Computer Science Students](https://discord.gg/jyWZHdf)
 - [General Server for Everyone](https://discord.com/invite/7V8raJk)
 
